@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
-title: Mateus Toledo da Silveira Leão # your site title
-author: mateustsleao # You :P
+title: Mateus Blog # your site title
+author: Mateus Toledo da Silveira Leão # You :P
 description: > # Meta description of Homepage
-  Textos sobre ciencia de dados, otimização, tomada de decisão em cenários complexos e análises de risco. 
+  Ciência de dados, otimização, tomada de decisão em cenários complexos e análises de risco. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mateustsleao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Mateus Toledo da Silveira Leão
+  name: Mateus Blog
   links:
     - https://www.facebook.com/mateus.toledo0
     - https://www.linkedin.com/in/mateus-toledo-da-silveira-leao/
@@ -22,7 +22,7 @@ navigation: # Navigation links
 # - {name: '', link: ''}
 
 tagline: >
-  Minhas ideias e aprendizados sobre Otimização, Ciência de dados e assuntos correlatos.
+  Minhas ideias e aprendizados sobre otimização, ciência de dados e assuntos correlatos.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
