@@ -2,13 +2,13 @@
 title: Mateus Blog # your site title
 author: Mateus Toledo da Silveira Leão # You :P
 description: > # Meta description of Homepage
-  Ciência de dados, otimização, tomada de decisão em cenários complexos e análises de risco. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mateustsleao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Minhas ideias e aprendizados sobre otimização, ciência de dados e assuntos correlatos.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://mateustsleao.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Mateus Blog
+  name: Mateus Toledo da Silveira Leão
   links:
     - https://www.facebook.com/mateus.toledo0
     - https://www.linkedin.com/in/mateus-toledo-da-silveira-leao/
@@ -28,9 +28,8 @@ hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/
 
 email: mateustsleao@gmail.com # email for form submission
 
-# twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
 github_username:  mateustsleao # replace with your_github_username or comment to remove link from footer
-instagram_username: mateustolledo # replace with your_instagram_username or comment to remove link from footer
+instagram_username: mateustolledo 
 
 disqus:
   shortname: mateustsleao # to enable comments replace with your_disqus_shortname
