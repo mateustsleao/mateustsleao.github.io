@@ -4,7 +4,7 @@ author: mateustsleao # You :P
 description: > # Meta description of Homepage
   Textos sobre ciencia de dados, otimização, tomada de decisão em cenários complexos e análises de risco. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mateustsleao.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mateustsleao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
