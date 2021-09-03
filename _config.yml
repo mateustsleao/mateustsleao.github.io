@@ -2,7 +2,7 @@
 title: Mateus Blog # your site title
 author: Mateus Toledo da Silveira Leão # You :P
 description: > # Meta description of Homepage
-  Minhas ideias e aprendizados sobre otimização, ciência de dados e assuntos correlatos.
+  Conteúdo sobre ciência de dados, tomada de decisão em cenários complexos e otimização.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mateustsleao.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -22,7 +22,7 @@ navigation: # Navigation links
 # - {name: '', link: ''}
 
 tagline: >
-  Minhas ideias e aprendizados sobre otimização, ciência de dados e assuntos correlatos.
+  Compartilho aqui meus aprendizados sobre ciência de dados, tomada de decisão em cenários complexos e otimização.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
