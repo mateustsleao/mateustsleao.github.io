@@ -22,7 +22,7 @@ navigation: # Navigation links
 # - {name: '', link: ''}
 
 tagline: >
-  Compartilho aqui meus aprendizados sobre ciência de dados, tomada de decisão em cenários complexos e otimização.
+  Ciência de dados, tomada de decisão em cenários complexos, otimização e assuntos correlatos.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
