@@ -24,7 +24,7 @@ navigation: # Navigation links
 tagline: >
   Ciência de dados, tomada de decisão em cenários complexos, otimização e assuntos correlatos.
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/dom_ozero_gory_tishina_fotograf_1680x1050.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: mateustsleao@gmail.com # email for form submission
 
