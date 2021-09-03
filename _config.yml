@@ -22,7 +22,7 @@ navigation: # Navigation links
 # - {name: '', link: ''}
 
 tagline: >
-  Conteúdo sobre ciência de dados, tomada de decisão em cenários complexos e otimização.
+  Meus estudos sobre ciência de dados, tomada de decisão em cenários complexos e otimização.
 
 hero_img: posts/dom_ozero_gory_tishina_fotograf_1680x1050.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
