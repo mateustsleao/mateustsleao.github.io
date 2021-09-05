@@ -27,7 +27,7 @@ tagline: >
 hero_img: posts/the-lesser-reef-nebula_1920x1200_blogdowallpaper.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: mateustsleao@gmail.com # email for form submission
-formspree: xrgrryrz
+# formspree: xrgrryrz
 
 github_username:  mateustsleao # replace with your_github_username or comment to remove link from footer
 instagram_username: mateustolledo 
