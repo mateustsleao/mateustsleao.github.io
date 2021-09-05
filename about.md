@@ -32,4 +32,4 @@ Caso queira visualizar com detalhes estas experiências, você poderá encontrá
 
 ### Um pouco mais sobre mim ###
 
-Quando não estou ocupado com isso tudo, gosto muito de passar meu tempo com imnha amada esposa.
+Quando não estou ocupado com isso tudo, gosto muito de passar meu tempo com minha esposa, cozinhar, ler um bom livro, assistir a um bom filme, e passear em um bosque aqui perto de casa.
