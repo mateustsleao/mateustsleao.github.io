@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Eu](assets/img/posts/eu-face.jpg)
-
-O que fez com que você se apaixonasse pela sua profissão? Qual é o seu grande objetivo e o que te dá gás para acordar cedinho e trabalhar? Se você precisa virar a noite debruçado sobre um projeto, o que te faz achar isso o máximo? Todas essas respostas são relevantes.
-
-Olá, me chamo **Mateus Toledo da Silveira Leão**. Tenho bastante interesse em Engenharia de sofware, Ciência de dados, Otimização, Análise de risco e Tomada de decisão sob Incerteza. O que tudo isso tem em _comum_? Baseiam e auxiliam a resolução de problemas complexos e reais, tornando-os tangíveis e justificáveis a nós, humanos.
+![Eu](assets/img/posts/eu-face.jpg) Olá, me chamo **Mateus Toledo da Silveira Leão**. Tenho bastante interesse em Engenharia de sofware, Ciência de dados, Otimização, Análise de risco e Tomada de decisão sob Incerteza. O que tudo isso tem em _comum_? Baseiam e auxiliam a resolução de problemas complexos e reais, tornando-os tangíveis e justificáveis a nós, humanos.
 
 *** Um pouco sobre minha história ***
 
