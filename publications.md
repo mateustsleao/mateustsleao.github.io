@@ -15,4 +15,4 @@ permalink: /publications/
 
 **Citação recomendada**: Leão, Mateus. (2020). Contratos no ambiente de contrtação livre (ACL) e uma estratégia para análise de risco quantitativo.
 
-**Disponível em**: http://bib.pucminas.br:8080/pergamumweb/vinculos/000092/00009251.pdf.
+**Disponível em**: [https://bit.ly/riscoContratosACL](https://bit.ly/riscoContratosACL)
