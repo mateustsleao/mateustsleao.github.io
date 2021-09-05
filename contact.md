@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Entre em contato preenchendo o formulário abaixo ou enviando-me diretamente um [e-mail](mailto:{{site.email}}). Ficarei feliz em responder você.
+Entre em contato preenchendo o formulário ou enviando um [e-mail](mailto:{{site.email}}). Ficarei feliz em responder você.
 
 {% include form.html %}
 
