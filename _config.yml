@@ -4,7 +4,7 @@ author: Mateus Toledo da Silveira Leão # You :P
 description: > # Meta description of Homepage
   Conteúdo sobre ciência de dados, tomada de decisão em cenários complexos e otimização.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://mateustsleao.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mateustsleao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
