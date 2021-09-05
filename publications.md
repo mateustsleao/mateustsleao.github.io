@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-### Contratos no ambiente de contratação livre (ACL) e uma estratégia para análise de risco quantitativo.
+### [Contratos no ambiente de contratação livre (ACL) e uma estratégia para análise de risco quantitativo.](http://bib.pucminas.br:8080/pergamumweb/vinculos/000092/00009251.pdf)
 
 **Palavras-chave**: Ambiente Comercialização Livre. Mercado Livre de Energia. Análise de risco quantitativa. VaR. CVaR. Distribuição normal.
 
