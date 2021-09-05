@@ -17,21 +17,23 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Publications', link: '/publications'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-  
+  - {name: 'Publications', link: '/publications'}
+
 tagline: >
   Meus estudos sobre ciência de dados, tomada de decisão em cenários complexos e otimização.
 
 hero_img: posts/the-lesser-reef-nebula_1920x1200_blogdowallpaper.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: mateustsleao@gmail.com # email for form submission
-# formspree: xrgrryrz
+
+formspree: xrgrryrz
 
 github_username:  mateustsleao # replace with your_github_username or comment to remove link from footer
 instagram_username: mateustolledo 
-# linkedin_username: mateus-toledo-da-silveira-leao
+linkedin_username: mateus-toledo-da-silveira-leao
+
 disqus:
   shortname: mateustsleao # to enable comments replace with your_disqus_shortname
 
