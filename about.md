@@ -37,7 +37,7 @@ Atualmente estudo ciências de dados contemplando todo o ciclo de um projeto, a 
 * Conversão da performance para resultado financeiro
 * Publicação do modelo em produção
 
-Para mais informações sobre os estudos, sugiro ler os artigos deste blog e também as [publicações acadêmicas](publications.md), ou consultar no [lattes](http://lattes.cnpq.br/7074412545424793).
+Para mais informações sobre os estudos sugiro ler os artigos deste blog e também as [publicações acadêmicas](publications.md), ou consultar no [lattes](http://lattes.cnpq.br/7074412545424793).
 
 ### Profissional ###
 
@@ -45,8 +45,8 @@ Atualmente Engenheiro de Software na SYDLE, com experiência em modelagem de sis
 
 Também possuo experiência profissional com desenvolvimento de processos para manufatura de placas de circuito impresso; Engenharia de processos; Melhoria contínua e cadeia de suprimentos. 
 
-Caso queira visualizar com detalhese, acesse meu perfil no [LinkedIn](https://www.linkedin.com/in/mateus-toledo-da-silveira-leao/)
+Caso queira visualizar com mais detalhes acesse meu perfil no [LinkedIn](https://www.linkedin.com/in/mateus-toledo-da-silveira-leao/)
 
 ### Um pouco mais sobre mim ###
 
-Quando não estou ocupado com trabalho e estudos, amo passar meu tempo com a esposa. Além disso, gosto de cozinhar, ler um bom livro, assistir a um bom filme, e passear em uma reserva aqui perto de casa.
+Quando não estou ocupado com trabalho e estudos, amo passar o tempo com a minha esposa. Além disso, gosto de cozinhar, ler um bom livro, assistir a um bom filme, e passear em uma reserva aqui perto de casa.
