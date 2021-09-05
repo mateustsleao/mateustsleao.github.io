@@ -35,7 +35,7 @@ Em meus estudos atuais, desenvolvo ciências de dados contemplando todo o ciclo 
 * Conversão da performance para resultado financeiro
 * Publicação do modelo em produção
 
-Para mais informações sobre meus estudos, sugiro visualizar meus artigos **neste blog** e também minhas **publicações**(publications.md) ou consultar meu currículo [lattes](http://lattes.cnpq.br/7074412545424793).
+Para mais informações sobre meus estudos, sugiro visualizar meus artigos **neste blog** e também minhas [publicações](publications.md) ou consultar meu currículo [lattes](http://lattes.cnpq.br/7074412545424793).
 
 ### Profissional ###
 
