@@ -6,13 +6,19 @@ permalink: /about/
 
 ![Eu](assets/img/posts/eu-face.jpg)
 
-Olá, me chamo **Mateus Toledo da Silveira Leão**. Tenho bastante interesse em Engenharia de sofware, Ciência de dados, Otimização, Análise de risco e Tomada de decisão sob Incerteza.
-O que tudo isso tem em _comum_?
-Baseiam e auxiliam a resolução de problemas complexos e reais, tornando-os tangíveis e justificáveis a nós, humanos.
+Olá, me chamo **Mateus Toledo da Silveira Leão**. Sou interessado em Engenharia de sofware, Ciência de dados, Otimização, Análise de risco e Tomada de decisão sob Incerteza.
+
+O que esses assuntos têm em _comum_?
+Auxiliam a resolução de problemas complexos e reais, tornando-os tangíveis e justificáveis a nós, humanos.
 
 ### Minha história ###
 
-Sou graduado em Engenharia Elétrica, pela Pontífica Universidade Católica de Minas Gerais (PUC Minas). Durante minha experiência acadêmica, pude trabalhar em várias empresas e em cada uma delas, tive uma experiência profissional diferente. Assim, meu objeto era explorar as possibilidades e caminhos que poderia vivenciar em cada uma delas. E ao final desta jornada, percebi algo: Gostaria que meu trabalho e profissão unisse a _racionalidade / resolução de problemas_ com a  _diálogo e clareza_ provenientes de uma boa comunicação. 
+Sou graduado em Engenharia Elétrica, pela Pontífica Universidade Católica de Minas Gerais (PUC Minas). Durante minha experiência acadêmica, trabalhei em várias empresas diferentes, e em cada uma tive uma experiência profissional distinta. Portanto, meu objetivo era explorar as possibilidades e caminhos que gostaria de vivenciar. E ao final da graduação, percebi algo:
+
+Gostaria que meu trabalho e profissão unisse a _racionalidade matemática e a resolução de problemas_ através de uma comunicação  _clara_ além da construção de _insights_ . 
+
+
+
 
 ### Estudos ###
 
