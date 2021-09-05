@@ -6,7 +6,9 @@ permalink: /about/
 
 ![Eu](assets/img/posts/eu-face.jpg)
 
-Olá, me chamo **Mateus Toledo da Silveira Leão**. Sou interessado em Engenharia de sofware, Ciência de dados, Otimização, Análise de risco e Tomada de decisão sob Incerteza.
+Olá, me chamo **Mateus Toledo da Silveira Leão**.
+
+Sou interessado em Engenharia de sofware, Ciência de dados, Otimização, Análise de risco e Tomada de decisão sob Incerteza.
 
 O que esses assuntos têm em _comum_?
 Auxiliam a resolução de problemas complexos e reais, tornando-os tangíveis e justificáveis a nós.
