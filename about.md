@@ -45,7 +45,7 @@ Atualmente Engenheiro de Software na SYDLE, com experiência em modelagem de sis
 
 Também possuo experiência profissional com desenvolvimento de processos para manufatura de placas de circuito impresso; Engenharia de processos; Melhoria contínua e cadeia de suprimentos. 
 
-Caso queira visualizar com mais detalhes acesse meu perfil no [LinkedIn](https://www.linkedin.com/in/mateus-toledo-da-silveira-leao/)
+Caso queira visualizar com mais detalhes acesse meu perfil no [LinkedIn](https://www.linkedin.com/in/mateus-toledo-da-silveira-leao/).
 
 ### Um pouco mais sobre mim ###
 
