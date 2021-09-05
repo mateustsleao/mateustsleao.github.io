@@ -19,7 +19,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-# - {name: '', link: ''}
+  - {name: 'Publications', link: '/publications'}
 
 tagline: >
   Meus estudos sobre ciência de dados, tomada de decisão em cenários complexos e otimização.
