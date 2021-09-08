@@ -1,0 +1,12 @@
+---
+layout: post
+title: "3 lições aprendidas sobre a história da visualização de dados"
+featured-img: history-data-visualization/playfair-graph-1024x756
+categories: [history, data, vizualization]
+---
+
+Foram desenvolvidos 8 marcos históricos, a saber: (**Pre-17th Century: Early maps and diagrams, 1600-1699: Measurement and theory, 1700-1799: New graphic forms, 1800-1850: Beginnings of modern graphics, 1850-1900: The Golden Age of statistical graphics, 1900-1950: The modern dark ages, 1950–1975: Re-birth of data visualization e 1975–present: High-D, interactive, and dynamic data visualization).** Em cada *milestone* ele se preocupou em contextualizar o desenvolvimento da técnica de visualização, e algo que ficou claro durante o artigo é como que as visualizações sempre procuraram **responder** aos problemas e análises científicos/sociais. Ou seja, no seu início ela sempre esteve marcada pela praticidade. Porém, com o desenvolvimento da estatística, a visualização de dados ganhou mais robustez teórica, facilitando algumas de suas compreensões que outrora seria mais díficil sem ela. Nomes como **Minard** e **Galton** tiveram grandes contribuições neste quesito.
+
+Entretanto, a sofisticação de desenhar e manter a visualização dos dados que só cresciam com o tempo, tornou custoso a utilização da visualização de dados. E, quando os primeiros computadores foram criados, o processamento e computação de dados já estruturados, facilitou o desenvolvimento das visualizações (agora em contexto computadorizado). Ademais, como advento gráfico dos computadores, a visualização ganhou um novo paradigma, a saber, a movimentação. Desta forma, novos conceitos de visualização puderam ser inventados e a visualização, expandida.
+
+Na segunda parte do artigo, o autor procurou construir uma histografia da estatística, mostrando um pouco de como os dados temporais surgiram e foram consolidados ao longo dos anos. Além disso, o autor mostra de forma agrupada, uma análise geral dos assuntos que a visualização abordou ao longo do tempo, bem como qual foi seu *approach.* Por fim, o autor mostra que os principais desenvolvimentos que foram feitos pelos principais nomes históricos da visualização não desenvolveram a "melhor visualização" possível, mas afirmar isso seria **anacrônico**.
