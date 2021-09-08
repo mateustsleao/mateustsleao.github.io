@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3 lições aprendidas sobre a história da visualização de dados"
-featured-img: history-data-visualization/playfair-graph-1024x756
+featured-img: playfair-graph-1024x756
 categories: [history, data, vizualization]
 ---
 
