@@ -10,25 +10,27 @@ A visualização de dados é responsável por traduzir de forma gráfica as abst
 
 Ao analisar ao longo dos séculos sua história<sup>1</sup>, é possível extrair 3 princípios importantes e que podem auxiliar nossas análises.
 
-# 1) A visualização precisa ser uma resposta à um problema
+## 1) A visualização precisa ser uma resposta à um problema
 
-Atualmente é comum montar uma visualização e despender a maior parte do tempo perocupado com a estética e a disposição dos elementos visuais. Este é um fator essencial, não tenha dúvidas. Porém, ele é de longe o mais essencial.
+Atualmente é comum montar uma visualização e despender a maior parte do tempo preocupado com a estética e a disposição dos elementos visuais. Este é um fator essencial, não tenha dúvidas. Porém, ele é de longe o mais essencial.
 
 **Por que?**
 
 Pois o cerne da visualização de dados não é sua harmonia estética, mas sim sua **funcionalidade** para evidenciar de forma **clara** a mensagem que você procura passar.
 
-Podemos listar o exemplo de Minard<sup>2<(1861)/sup>.
+Podemos listar o exemplo de Minard<sup>2</sup>(1861).
 
 ![]({{ "assets/img/posts/history-data-visualization/minard-napoleon-chart.png" | absolute_url }})
 
-A ideia deste gráfico é demonstrar a baixa que o exército de Napoleão teve durante sua incursão à Moscou e seu retorno. A grande faixa bege indica o volume de soldados que foram até a metrópole na Rússia. Já a faixa preta indica o volume de soldados que voltou.  Vale ressaltar que Minard não faz menção a Napoleão. Qual a **primeira** impressão que a visualização passa? O fato do exército ter tido uma gigantesca baixa, demonstrando que seu interesse estava nas **angústias e sacrifísios dos soldados**<sup>3</sup>. 
+A ideia deste gráfico é demonstrar a baixa que o exército de Napoleão teve durante sua incursão à Moscou e seu retorno. A grande faixa bege indica o volume de soldados que foram até a metrópole na Rússia. Já a faixa preta indica o volume de soldados que voltou.  Vale ressaltar que Minard não faz menção a Napoleão.
+Qual a **primeira** impressão que a visualização passa?
+O fato do exército ter tido uma gigantesca baixa, demonstrando que seu interesse estava nas **angústias e sacrifícios dos soldados**<sup>3</sup>. 
 
-E este tipo de visualização não é pontual na história da visualização de dados. Como menção honrosa, destaco as visualizações criadas por Playfair (1821), por exemplo, a comparação de população e impostos em várias nações<sup>4</sup>, ou a visualização do número de pessoas doentes no campo de batalha nas guerras criada por Nightingale<sup>5</sup>(1857) evidenciando que muitos soldados morreram por conta das péssimas condições sanitárias. 
+E este tipo de visualização não é pontual na história da visualização de dados. Como menção honrosa, destaco as visualizações criadas por Playfair<sup>4</sup>(1821), por exemplo, a comparação de população e impostos em várias nações, ou a visualização do número de pessoas doentes no campo de batalha nas guerras criada por Nightingale<sup>5</sup>(1857) evidenciando que muitos soldados morreram por conta das péssimas condições sanitárias. 
 
-Portanto a visualização deve ser comprometida, a priore, com **qual** informação você quer disponibilizar do que **como** você deve visualizar.
+Portanto a visualização deve ser comprometida, a priori, com **qual** informação você quer disponibilizar do que **como** você deve visualizar.
 
-# 2) Sua visualização pode conter pré-requisito para interpretação.
+## 2) Sua visualização pode conter pré-requisito para interpretação.
 
 Esta afirmação pode soar um pouco polêmica, eu sei. Mas como vimos no primeiro princípio, nosso ponto de partida é o **propósito**. Existe um diagrama que ilustra bem isso, feito por Nobre(2021)<sup>6</sup> de uma leitura de Berinato(2016)<sup>7</sup>:
 
@@ -53,7 +55,7 @@ Portanto, existem visualizações que para fomentar _insights_ necessitam de um 
 
 Dessa forma, não se sinta mal se sua visualização necessita de pré-requisitos. Isto é comum e é bom para construção de idéias.
 
-# 3) Sua visualização nunca será perfeita.
+## 3) Sua visualização nunca será perfeita.
 ## A tecnologia muda
 ## A abstração muda
 
